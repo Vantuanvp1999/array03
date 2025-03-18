@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ec5455f-ea9a-4899-a987-66687a6bebfc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/baiTapTrenLop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiTap3.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap03.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742266028674</updated>
-      <workItem from="1742266029799" duration="2653000" />
+      <workItem from="1742266029799" duration="2962000" />
     </task>
     <servers />
   </component>
