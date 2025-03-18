@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  let arr = [1, 24, 23, 14, 5,20,10,5,7,9];
+ max = arr[0];
+ sum=0;
+ for(let i = 0; i < arr.length; i++) {
+   sum+=arr[i];
+   if(arr[i] > max){
+     max = arr[i];
+   }
+ }let avg = sum/arr.length;
+ document.write("Giá trị lớn nhất trong mảng là "+max);
+ document.write("<br> giá trị trung bình của mảng là "+avg);
+</script>
+</body>
+</html>
